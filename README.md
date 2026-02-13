@@ -1,4 +1,4 @@
-arpe# CHALLENGE ALURA STORE
+# CHALLENGE ALURA STORE
 
 El siguiente desafío tiene por objetivo entregar un análisis de los datos de venta, categorías, envíos y reseñas, de cuatro Tiendas Alura, para identificar la menos eficiente, con el fin de que el Señor Juan pueda tomar una decisión de cierre y redirigir los recursos a un nuevo emprendimiento.
 
