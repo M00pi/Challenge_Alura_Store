@@ -1,4 +1,4 @@
-# CHALLENGE ALURA STORE
+arpe# CHALLENGE ALURA STORE
 
 El siguiente desafío tiene por objetivo entregar un análisis de los datos de venta, categorías, envíos y reseñas, de cuatro Tiendas Alura, para identificar la menos eficiente, con el fin de que el Señor Juan pueda tomar una decisión de cierre y redirigir los recursos a un nuevo emprendimiento.
 
@@ -16,7 +16,10 @@ Para este caso se ha realizado el siguiente análisis:
 Se genera un informe que resume el trabajo de análisis realizado, muestra los resultados más relevantes, una conclusión y recomendación según lo solicitado por el Señor Juan para la toma de decisiones. 
 
 ## Estructura del Proyecto
-La carpeta del proyecto contiene las bases de datos de las tiendas Alura, un archivo para ser visualizado en Colab donde se encuentra el desarrollo del proyecto, por último se han guardado las imágenes de los gráficos incluídos en el informe. 
+La carpeta del proyecto contiene: 
+- Carpeta con bases de datos de las tiendas Alura
+- Notebook de Colab, AluraStoreLatam.ipynb, donde se encuentra el desarrollo del proyecto
+- Imágenes de los gráficos incluídos en el informe. 
 
 ---
 
